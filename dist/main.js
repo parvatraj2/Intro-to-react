@@ -1,0 +1,1 @@
+(()=>{"use strict";document.getElementById("nav").innerHTML="\n    <h3>Signup</h3>\n    <h3>Login</h3>\n    <h3>contac</h3>"})();
